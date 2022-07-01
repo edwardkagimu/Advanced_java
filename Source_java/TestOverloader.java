@@ -5,7 +5,7 @@ public class TestOverloader{
 	static int years =  (int) days;
 	static void make(){
 		System.out.println("Conversion from double to integer "+years);
-		System.out.println("The code needed is");
+		System.out.println("The code needed is and am called Edward");
 	}
 	float f = 2.34f;
 	 public static void main(String[] args) {
